@@ -1,0 +1,92 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!-- Change the width below to just wider than your form's width
+    to optimize its initial scale on Apple iOS  and Android devices -->
+    <meta name="viewport" content="width=640">
+
+    <title>Welcome!</title>
+    <style>
+        <!-- body {
+            background-color: ##FFFFFF;
+            font-family: helvetica;
+            font-size: 18px;
+            text-align: left;
+            min-width: 500px;
+            margin: 150 10 10 10;
+        }
+
+        p {
+            line-height: 25px;
+        }
+
+        .container {
+            background-color: #FFFFFF;
+            width: 500px;
+            padding: 20 20 25 25;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .pagetitle {
+            background-color: #dddddd;
+            padding: 8px;
+            font-size: 18px;
+            font-weight: bold;
+            color: #000000;
+            text-align: left;
+        }
+
+        .pagetitlealert {
+            background-color: #414141;
+            padding: 8px;
+            font-size: 18px;
+            font-weight: bold;
+            color: #ffffff;
+            text-align: left;
+        }
+
+        .pagetitlesuccess {
+            background-color: #414141;
+            padding: 8px;
+            font-size: 16px;
+            font-weight: bold;
+            color: #ffffff;
+            text-align: left;
+        }
+
+        .formlabel {
+            font-size: 13px;
+        }
+
+        .error {
+            color: #ff0000;
+            font-weight: bold;
+            font-size: 11px;
+        }
+
+        .small {
+            font-size: 10px;
+        }
+        
+        .img {
+        width: 100%;
+     
+        }
+        
+     
+        -->
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+    
+        <h1>Welcome to Horizon News &#128262;</h1>
+        <p>We're so glad you could join us.</p>
+      
+    </div>
+</body>
+</html>
