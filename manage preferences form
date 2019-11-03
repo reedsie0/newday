@@ -1,0 +1,95 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!-- Change the width below to just wider than your form's width
+    to optimize its initial scale on Apple iOS  and Android devices -->
+    <meta name="viewport" content="width=640">
+
+    <title>Let's update your preferences</title>
+    <style>
+        <!-- body {
+            background-color: #EFECEC;
+            font-family: helvetica;
+            font-size: 18px;
+            text-align: left;
+            min-width: 500px;
+            margin: 150 0 0 0;
+        }
+
+        p {
+            line-height: 25px;
+        }
+
+        .container {
+            background-color: #ffffff;
+            width: 500px;
+            padding: 10 10 15 25;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .pagetitle {
+            background-color: #dddddd;
+            padding: 8px;
+            font-size: 16px;
+            font-weight: bold;
+            color: #000000;
+            text-align: left;
+        }
+
+        .pagetitlealert {
+            background-color: #414141;
+            padding: 8px;
+            font-size: 16px;
+            font-weight: bold;
+            color: #ffffff;
+            text-align: left;
+        }
+
+        .pagetitlesuccess {
+            background-color: #414141;
+            padding: 8px;
+            font-size: 16px;
+            font-weight: bold;
+            color: #ffffff;
+            text-align: left;
+        }
+
+        .formlabel {
+            font-size: 13px;
+        }
+
+        .error {
+            color: #ff0000;
+            font-weight: bold;
+            font-size: 11px;
+        }
+
+        .small {
+            font-size: 10px;
+        }
+        
+        .img {
+        width: 100%;
+     
+        }
+        
+     
+        -->
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+    <img src="https://newdayimpact.com/wp-content/themes/newdaytheme/img/logo/arrow_logo.png" alt="yellow arrow" height="55" width="55" align="right">
+        <h1>Update your preferences.</h1>
+        
+        <input type="submit" class="button" name="submit" value="Subscribe" />&nbsp; or &nbsp;
+                            <a href="/unsubscribe?u=56e85f101aaab5f567b9d5a17&id=a25de3d6a8&e=*|UNIQID|*">Unsubscribe</a>
+    </div>
+
+
+</body>
+</html>
